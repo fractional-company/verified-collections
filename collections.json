@@ -1,0 +1,87 @@
+[
+  {
+    "collection": "Axie",
+    "address": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
+    "tokenIds": []
+  },
+  {
+    "collection": "Byac",
+    "address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+    "tokenIds": []
+  },
+  {
+    "collection": "Decentraland",
+    "address": "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d",
+    "tokenIds": []
+  },
+  {
+    "collection": "Art blocks",
+    "address": "0x059edd72cd353df5106d2b9cc5ab83a52287ac3a",
+    "tokenIds": []
+  },
+  {
+    "collection": "Cryptokitties",
+    "address": "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d",
+    "tokenIds": []
+  },
+  {
+    "collection": "CryptoPunks",
+    "address": "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb",
+    "tokenIds": []
+  },
+  {
+    "collection": "CryptoPunks",
+    "address": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+    "tokenIds": []
+  },
+  {
+    "collection": "Cryptovoxels",
+    "address": "0x79986af15539de2db9a5086382daeda917a9cf0c",
+    "tokenIds": []
+  },
+  {
+    "collection": "EulerBeats",
+    "address": "0x8754f54074400ce745a7ceddc928fb1b7e985ed6",
+    "tokenIds": []
+  },
+  {
+    "collection": "EulerBeats",
+    "address": "0xa98771a46dcb34b34cdad5355718f8a97c8e603e",
+    "tokenIds": []
+  },
+  {
+    "collection": "Hashmasks",
+    "address": "0xc2c747e0f7004f9e8817db2ca4997657a7746928",
+    "tokenIds": []
+  },
+  {
+    "collection": "Meebits",
+    "address": "0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7",
+    "tokenIds": []
+  },
+  {
+    "collection": "The Sandbox",
+    "address": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+    "tokenIds": []
+  },
+  {
+    "collection": "Snownden, Stay Free",
+    "address": "0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405",
+    "tokenIds": [ 24437 ]
+  },
+  {
+    "collection": "Somnium Space VR",
+    "address": "0x913ae503153d9a335398d0785ba60a2d63ddb4e2",
+    "tokenIds": []
+  },
+  {
+    "collection": "Sorare",
+    "address": "0x629a673a8242c2ac4b7b8c5d8735fbeac21a6205",
+    "tokenIds": []
+  },
+  {
+    "collection": "Wizzards",
+    "address": "0x521f9C7505005CFA19A8E5786a9c3c9c9F5e6f42",
+    "tokenIds": []
+  }
+]
