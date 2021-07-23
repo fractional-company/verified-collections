@@ -1,6 +1,6 @@
 class VerifiedCollections {
-    static async load(slugOrContractAddress, tokenId = null) {
-        return await import('./collections.json').then(m => m?.default ?? m)
+    static async load() {
+        return await import('./collections.json').then(m => m ? m.default : m)
     }
 }
 
