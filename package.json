@@ -1,0 +1,31 @@
+{
+  "name": "@fractional-company/verified-collections",
+  "version": "0.0.1",
+  "description": "Fractional Verified Collections",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rimraf dist && babel src -d dist --copy-files"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fractional-company/verified-collections.git"
+  },
+  "keywords": [
+    "fractional",
+    "verified collections"
+  ],
+  "author": "CryptoSamurai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fractional-company/verified-collections/issues"
+  },
+  "homepage": "https://github.com/fractional-company/verified-collections#readme",
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {},
+  "files": [
+    "src"
+  ],
+  "main": "src/index.js"
+}
