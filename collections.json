@@ -83,5 +83,10 @@
     "collection": "Wizzards",
     "address": "0x521f9C7505005CFA19A8E5786a9c3c9c9F5e6f42",
     "tokenIds": []
+  },
+  {
+    "collection": "XCOPY",
+    "address": "0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0",
+    "tokenIds": [11221]
   }
 ]
