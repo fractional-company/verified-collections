@@ -67,7 +67,9 @@
   {
     "collection": "Snownden, Stay Free",
     "address": "0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405",
-    "tokenIds": [ 24437 ]
+    "tokenIds": [
+      24437
+    ]
   },
   {
     "collection": "Somnium Space VR",
@@ -87,6 +89,22 @@
   {
     "collection": "XCOPY",
     "address": "0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0",
-    "tokenIds": [11221]
+    "tokenIds": [
+      11221
+    ]
+  },
+  {
+    "collection": "Beeple",
+    "address": "0xc170384371494b2a8f6ba20f4d085c4dde763d96",
+    "tokenIds": [
+      100010078
+    ]
+  },
+  {
+    "collection": "Beeple",
+    "address": "0x12f28e2106ce8fd8464885b80ea865e98b465149",
+    "tokenIds": [
+      100030015
+    ]
   }
 ]
